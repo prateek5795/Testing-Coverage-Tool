@@ -1,0 +1,7 @@
+Testing/Agent.class
+Testing/MethodTransformVisitor.class
+Testing/ClassTransformerAndVisitor.class
+Testing/CollectionCoverage.class
+Testing/Agent$1.class
+Testing/Transformer.class
+Testing/JUnitListener.class
